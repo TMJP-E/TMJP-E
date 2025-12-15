@@ -1,9 +1,9 @@
 <h1>
-  <img src="images/delfin.png" width="24"/> Welcome There, the name's Σxz.
+  <img src="images/delfin.png" width="24"/> Welcome There, it's Σxz.
 </h1>
 
 <p>
-  I'm Joshua, Software Engineering enthusiast from <img src="https://flagpedia.net/data/flags/w20/mx.webp" width="12"/> <b>Mexico</b>, currently living in <b>Merida</b>.
+  Software Engineering enthusiast from <img src="https://flagpedia.net/data/flags/w20/mx.webp" width="12"/> <b>Mexico</b>, currently living in <b>Merida</b>.
 </p>
 <h3>Ask me about</h3>
 <p>
@@ -30,7 +30,8 @@
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="Arch Linux" src="https://img.shields.io/badge/-Arch_Linux-1793D1?style=flat-square&logo=archlinux&logoColor=white" />
   <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-  
+  <img alt="Rust" src="https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white" />
+  <img alt="GTK" src="https://img.shields.io/badge/-GTK-7FE719?style=flat-square&logo=gtk&logoColor=white" />
 </p>
 
 <h3>
@@ -40,7 +41,7 @@
 <p>
 My name is Joshua Tellez, I've always been fascinated by mathematics, computers and science in general. I firmly believe the grandiose purpose of humanity is to invent and discover.
 </br></br>
-I'm always open for collaborative support on different projects, if the people got what it takes, I'm always up for a challenge and prepared to learn.
+I'm always open for collaborative support on different projects, if the people got what it takes, I'm up for a challenge and prepared to learn.
 </br>
 "No one has more resilience, or matches my practical tactical brilliance"
 </br></br>
@@ -70,7 +71,7 @@ A good team can become even better with great leadership, thankfully, I perform 
       <img alt="DRF" src="https://img.shields.io/badge/-DRF-092E20?style=flat-square&logo=django&logoColor=white" />
       <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white" />
       <img alt="UML" src="https://img.shields.io/badge/-UML-FABD14?style=flat-square&logo=uml&logoColor=black" />
-      <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
       <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
       <img alt="TensorFlow" src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
     </td>
@@ -94,6 +95,21 @@ A good team can become even better with great leadership, thankfully, I perform 
   </tr>
   <tr>
     <td>
+      <a href="https://github.com/TMJP-E/MegaHQ-MMR">MMR</a> - MegaHQ's official desktop Linux ricing theme.
+    </td>
+    <td>
+      <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+      <img alt="Arch Linux" src="https://img.shields.io/badge/-Arch_Linux-1793D1?style=flat-square&logo=archlinux&logoColor=white" />
+      <img alt="Hyprland" src="https://img.shields.io/badge/-Hyprland-58E1FF?style=flat-square&logo=hyprland&logoColor=black" />
+      <img alt="GTK" src="https://img.shields.io/badge/-GTK-7FE719?style=flat-square&logo=gtk&logoColor=white" />
+      <img alt="Inkscape" src="https://img.shields.io/badge/-Inkscape-000000?style=flat-square&logo=inkscape&logoColor=white" />
+    </td>
+    <td>
+      <img alt="In Progress" src="https://img.shields.io/badge/-In_Progress-6699FF?style=flat-square&logo=&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td>
       Exzpenser - Personal finances management made simple.
     </td>
     <td>
@@ -106,27 +122,13 @@ A good team can become even better with great leadership, thankfully, I perform 
       <img alt="Angular" src="https://img.shields.io/badge/-Angular-0F0F11?style=flat-square&logo=angular&logoColor=white" />
       <img alt="Django" src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white" />
       <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-      <img alt="TensorFlow" src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+      <img alt="PyTorch" src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
       <img alt="NumPy" src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
       <img alt="Axios" src="https://img.shields.io/badge/-Axios-5A29E4?style=flat-square&logo=axios&logoColor=white" />
     </td>
     </td>
     <td>
       <img alt="Not Started" src="https://img.shields.io/badge/-Not_Started-888888?style=flat-square&logo=&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/Exzmerald/MegaHQ-MMR">MMR</a> - MegaHQ's official desktop Linux ricing theme.
-    </td>
-    <td>
-      <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=white" />
-      <img alt="Arch" src="https://img.shields.io/badge/-Arch-58E1FF?style=flat-square&logo=archlinux&logoColor=white" />
-      <img alt="Hyprland" src="https://img.shields.io/badge/-Hyprland-58E1FF?style=flat-square&logo=hyprland&logoColor=white" />
-      <img alt="Fabric" src="https://img.shields.io/badge/-Fabric-FFB441?style=flat-square&logo=&logoColor=white" />
-    </td>
-    <td>
-      <img alt="In Progress" src="https://img.shields.io/badge/-In_Progress-6699FF?style=flat-square&logo=&logoColor=white" />
     </td>
   </tr>
   </tbody>
