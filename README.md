@@ -29,9 +29,6 @@
   <img alt="TensorFlow" src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="Arch Linux" src="https://img.shields.io/badge/-Arch_Linux-1793D1?style=flat-square&logo=archlinux&logoColor=white" />
-  <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-  <img alt="Rust" src="https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white" />
-  <img alt="GTK" src="https://img.shields.io/badge/-GTK-7FE719?style=flat-square&logo=gtk&logoColor=white" />
 </p>
 
 <h3>
@@ -98,11 +95,24 @@ A good team can become even better with great leadership, thankfully, I perform 
       <a href="https://github.com/TMJP-E/MegaHQ-MMR">MMR</a> - MegaHQ's official desktop Linux ricing theme.
     </td>
     <td>
-      <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
       <img alt="Arch Linux" src="https://img.shields.io/badge/-Arch_Linux-1793D1?style=flat-square&logo=archlinux&logoColor=white" />
       <img alt="Hyprland" src="https://img.shields.io/badge/-Hyprland-58E1FF?style=flat-square&logo=hyprland&logoColor=black" />
+      <img alt="Rust" src="https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white" />
       <img alt="GTK" src="https://img.shields.io/badge/-GTK-7FE719?style=flat-square&logo=gtk&logoColor=white" />
       <img alt="Inkscape" src="https://img.shields.io/badge/-Inkscape-000000?style=flat-square&logo=inkscape&logoColor=white" />
+    </td>
+    <td>
+      <img alt="Not Started" src="https://img.shields.io/badge/-Not_Started-888888?style=flat-square&logo=&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/TMJP-E/Cinnamon-Rice">Cinnamon-Rice</a> - Cinnamoroll inspired ricing theme for Linux and Android.
+    </td>
+    <td>
+      <img alt="Arch Linux" src="https://img.shields.io/badge/-Arch_Linux-1793D1?style=flat-square&logo=archlinux&logoColor=white" />
+      <img alt="Android" src="https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white" />
+      <img alt="Hyprland" src="https://img.shields.io/badge/-Hyprland-58E1FF?style=flat-square&logo=hyprland&logoColor=black" />
     </td>
     <td>
       <img alt="In Progress" src="https://img.shields.io/badge/-In_Progress-6699FF?style=flat-square&logo=&logoColor=white" />
